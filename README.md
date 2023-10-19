@@ -3,7 +3,7 @@
 
 ![Texto Alternativo](https://i.imgur.com/cBvMxmt.png)
 
-
+## No powerbi foi extraído as tabelas diretamente do Azure My SQL
 ## Foi feito uma limpeza e agregações no Power Query.
 Usando agregacoes para melhorar as tabelas e suas relações.
 
